@@ -1,3 +1,3 @@
 Diabetes Prediction using Support Vector Machine
 
-Add all the details soon ----
+Add all the details soon ---
