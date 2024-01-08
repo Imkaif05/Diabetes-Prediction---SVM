@@ -3,7 +3,7 @@
 📊 Model's Overview  : 
 
 - Algorithm : Support Vector Machine with Linear Kernel 
-- Dataset : (diabetes.csv) [ https://lnkd.in/gDyTk5CU ]
+- Dataset : [diabetes.csv] (https://lnkd.in/gDyTk5CU)
 
 📝 Important Steps : 
 
