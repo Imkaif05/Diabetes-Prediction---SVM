@@ -1,10 +1,12 @@
 ### Diabetes Prediction using Support Vector Machine
 
-📊 Model's Overview 
+📊 Model's Overview  : 
+
 1. Algorithm : Support Vector Machine with Linear Kernel 
 2. Dataset : diabetes.csv [ https://lnkd.in/gDyTk5CU ]
 
-📝 Important Steps 
+📝 Important Steps : 
+
 1. Data Collection & Analysis 
 2. Separating the Input & Output labels
 3. Data Standardization
@@ -15,3 +17,5 @@
 8. Making a Predictive System : A function that will take input from the patient and tells if the patient is diabetic or not 
 
 
+
+Add all the details soon ---
